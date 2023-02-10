@@ -1,10 +1,16 @@
 h1{
     font-size: 70px; 
     font-family: 'Cormorant Garamond', serif;
+    color: var(--color-title-dark);
     
 }
 
 .hello__nav{
     font-size: 15.4px;
     font-weight: bold;
+}
+
+.hello{
+    background: url(../img/writer-background.png);
+    background-size: cover;
 }
